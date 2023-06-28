@@ -1,0 +1,5 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'hsxr'
+theme = 'hugo-theme-mini'
+defaultContentLanguage = 'zh'
