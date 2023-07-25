@@ -44,7 +44,7 @@ postsOlder:
 poweredBy:
   other: >-
     作者：
-    <a href='https://github.com/hsxrcn'>hscn</a>
+    <a href='https://github.com/hsxrcn'>hsxr</a>
 
 publishDateShort:
   other: '{{ .PublishDate.Format "01/02" }}'
